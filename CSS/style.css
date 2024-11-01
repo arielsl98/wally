@@ -1,0 +1,29 @@
+.main {
+    margin: 2rem auto;
+}
+
+.titulo {
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem {
+    margin: 0.5rem auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragrafo {
+    font-size: 1.25rem;
+    margin: 1rem auto;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
